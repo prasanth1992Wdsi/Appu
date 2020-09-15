@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="91" started-at="2020-09-15T14:19:36Z" finished-at="2020-09-15T14:19:36Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="91" started-at="2020-09-15T14:19:36Z" finished-at="2020-09-15T14:19:36Z">
+      <class name="testScript.Testcase">
+        <test-method status="PASS" signature="Run()[pri:0, instance:testScript.Testcase@7ac7a4e4]" name="Run" duration-ms="23" started-at="2020-09-15T14:19:36Z" finished-at="2020-09-15T14:19:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Run -->
+      </class> <!-- testScript.Testcase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
